@@ -1,0 +1,15 @@
+streamlit
+Pillow
+requests
+scikit-learn
+numpy
+pandas
+transformers
+torch
+sentencepiece
+opencv-python
+easyocr
+PyMuPDF
+nltk
+tqdm
+langdetect
